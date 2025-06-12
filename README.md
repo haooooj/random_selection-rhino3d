@@ -1,6 +1,3 @@
-Here is a professional README in the same format and tone as your 2-Point Move Command example, tailored for your **Random Selection Tool** for Rhino3D:
-
----
 
 # Random Selection Tool for Rhino3D
 
@@ -71,8 +68,3 @@ Rhino does not offer built-in tools to randomly filter objects from a selection.
    * Randomly choose that number of objects.
    * Unselect all and highlight only the randomly selected subset.
 
-Enjoy fast, flexible, and intuitive random sampling in Rhino.
-
----
-
-Let me know if you'd like a version formatted for GitHub, or if you want to bundle it with an `.rhp` plugin version.
